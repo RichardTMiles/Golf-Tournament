@@ -1,6 +1,6 @@
 # Golf-Tournament
 
-You must have Excel installed on your computer, texted on windows. 
+You must have Excel installed on your computer, tested on windows. 
 
 ![Alt text](https://github.com/RichardTMiles/Golf-Tournament/blob/master/page2.png?raw=true "Page1")
 
